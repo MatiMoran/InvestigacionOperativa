@@ -1,0 +1,27 @@
+1. Introducción a Investigación Operativa
+
+¿Qué es la Investigación Operativa? Introducción a Programación Matemática. Metodología de Investigación Operativa. Definición del Problema. Elementos característicos de un Modelo Matemático. Construcción, resolución y validación del Modelo. Implementación y Control del Modelo. Clasificación de los Problemas de Optimización. Complejidad de Problemas y Algoritmos.
+
+2. Modelado y Programación Lineal
+
+Tipo de soluciones de un Problema Lineal. Caracterización de Soluciones Óptimas. Puntos extremos, polítopos y poliedros. Cono característico. Técnicas para modelar problemas linealmente. Resolución gráfica de problemas de Programación Lineal en dos dimensiones. Introducción al lenguaje ZIMPL y al solver SCIP.
+
+3. Resolución de problemas de Programación Lineal
+
+Forma estándar de un problema de Programación Lineal. Procedimiento del algoritmo SIMPLEX. Soluciones básicas factibles. Generación de Puntos Extremos. Criterio de Optimalidad. Comportamiento del algoritmo en problemas no acotados o con más de un óptimo. Soluciones básicas degeneradas. Regla de Bland. Método de diccionarios y método matricial para la resolución de problemas de Programación Lineal utilizando SIMPLEX. Fase I de SIMPLEX. Método de las dos fases y método Big-M. Complejidad del Algoritmo SIMPLEX. Problema Dual. Teorema Fundamental de Dualidad. Holgura Complementaria. Significado económico de las Variables Duales. Análisis de Sensibilidad.
+
+4. Resolución de problemas de Programación Lineal Entera
+
+Forma general de un modelo de Programación Lineal Entera. Problema de la Mochila. Problema de Asignación. El Problema del Vendedor Viajero. Problema de Localización de Plantas. Algoritmo de Branch & Bound. Programación Entera Binaria.
+
+5. Optimización no lineal sin restricciones
+
+6. Teoría de Grafos
+
+Definición de grafo. Vecindario y grado de un vértice. Vértice aislado y vértice universal. Grado máximo y mínimo de un grafo. Grafo regular. Complemento de un grafo. Subgrafo, subgrafo generador y subgrafo inducido. Grafos isomorfos. Grafos completos. Caminos, circuitos y ciclos. Distancia entre vértices. Grafos bipartitos. Grafos conexos. Puntos de corte, bloques y puentes.
+
+Definición de árbol, hoja y bosque. Árboles dirigidos. Caracterización de un árbol. Árbol Generador Mínimo. Ejemplos de aplicación. Algoritmo de Kruskal. Algoritmo de Prim.
+
+Introducción e historia del problema de coloreo. Coloreo de grafos. Clique, conjunto independiente y número cromático. Propiedades. Teorema de Brooks. Algoritmo de conexión-contracción. Polinomio cromático. Índice cromático. Variantes de problemas de coloreo.
+
+Camino y Circuito Euleriano. Teorema de Euler. Camino y Circuito Hamiltoniano. El Problema del Viajante de Comercio.
