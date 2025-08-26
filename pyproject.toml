@@ -1,19 +1,18 @@
-[project]
+[tool.poetry]
 name = "investigacionoperativa"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "Matias Moran",email = "matiec52000@hotmail.com"}
-]
+authors = ["matmoran_meli <matiasnicolas.moran@mercadolibre.com>"]
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = [
-    "numpy (>=2.3.2,<3.0.0)",
-    "pandas (>=2.3.2,<3.0.0)",
-    "pyscipopt (>=5.6.0,<6.0.0)"
-]
+
+[tool.poetry.dependencies]
+python = ">=3.12"
+numpy = "^2.3.2"
+pandas = "^2.3.2"
+matplotlib = "^3.10.5"
+pyscipopt = "^5.6.0"
 
 
 [build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
+requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
